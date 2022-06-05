@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\app",
-    "\\app\\app"
+    "\\app\\app",
+    "\\app\\core",
+    "\\app\\core\\management",
+    "\\app\\core\\management\\commands",
+    "\\app\\core\\migrations",
+    "\\app\\core\\tests"
   ],
-  "SelectedNode": "\\app\\app",
+  "SelectedNode": "\\app\\core\\admin.py",
   "PreviewInSolutionExplorer": false
 }
