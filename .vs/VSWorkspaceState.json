@@ -4,13 +4,12 @@
     "\\.github",
     "\\.github\\workflows",
     "\\app",
-    "\\app\\app",
-    "\\app\\core",
     "\\app\\core\\management",
-    "\\app\\core\\management\\commands",
-    "\\app\\core\\migrations",
-    "\\app\\core\\tests"
+    "\\app\\core\\tests",
+    "\\app\\recipe",
+    "\\app\\recipe\\tests",
+    "\\app\\user\\tests"
   ],
-  "SelectedNode": "\\app\\core\\admin.py",
+  "SelectedNode": "\\app\\recipe\\tests\\test_recipe_api.py",
   "PreviewInSolutionExplorer": false
 }
